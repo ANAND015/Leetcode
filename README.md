@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ANAND015/Leetcode/tree/master/0006-zigzag-conversion) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANAND015/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
 |  |
