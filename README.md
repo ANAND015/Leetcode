@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/ANAND015/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ANAND015/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANAND015/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/ANAND015/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ANAND015/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ANAND015/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANAND015/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/ANAND015/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ANAND015/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ANAND015/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/ANAND015/Leetcode/tree/master/1558-course-schedule-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -167,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ANAND015/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/ANAND015/Leetcode/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
